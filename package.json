@@ -1,0 +1,15 @@
+{
+  "name": "rsf-algorithms-js",
+  "version": "1.0.0",
+  "description": "Random algorithms for Wireless networking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexis Facques",
+  "license": "MIT",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "minimist": "^1.2.0"
+  }
+}
